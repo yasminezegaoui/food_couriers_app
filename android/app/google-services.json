@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52451256250",
+    "project_id": "food-couriers-app-fb699",
+    "storage_bucket": "food-couriers-app-fb699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52451256250:android:70e0f5cc3d77f3a6095f83",
+        "android_client_info": {
+          "package_name": "com.example.food_co"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHN0B_MFPThTBQBSAlnTXS8yZjycZHCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52451256250:android:d646ef18c363c7ed095f83",
+        "android_client_info": {
+          "package_name": "com.example.food_couriers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHN0B_MFPThTBQBSAlnTXS8yZjycZHCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
